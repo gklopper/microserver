@@ -96,6 +96,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MicroServer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/MicroServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.17269737">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="article.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/article/article.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,10 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageServlet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PageServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/PageServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="977" selection-end="977" vertical-scroll-proportion="0.024590164">
+            <state line="41" column="46" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -190,25 +199,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Favorites" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="MemberChooser.sorted" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -382,7 +423,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19821283" sideWeight="0.74347335" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24858116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24858116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -465,42 +506,9 @@
         <state line="621" column="30" selection-start="21495" selection-end="21514" vertical-scroll-proportion="0.33294255" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="81" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/ResourceServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="8" selection-start="992" selection-end="992" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/article/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="57" selection-start="4011" selection-end="4015" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/promo/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/MicroServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="371" selection-end="371" vertical-scroll-proportion="0.22203948">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/promo/list-component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.079225354">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.079225354" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/ConfiguredServlet.java">
@@ -508,9 +516,36 @@
         <state line="25" column="65" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="81" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/promo/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/article/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="57" selection-start="4011" selection-end="4015" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/PageServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="977" selection-end="977" vertical-scroll-proportion="0.024590164">
+        <state line="41" column="46" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/ResourceServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="8" selection-start="992" selection-end="992" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/MicroServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.17269737">
           <folding />
         </state>
       </provider>

@@ -96,10 +96,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MicroServer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MicroServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/MicroServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.17269737">
+            <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="33" selection-start="50" selection-end="50" vertical-scroll-proportion="0.049342107">
               <folding />
             </state>
           </provider>
@@ -143,6 +152,7 @@
         <option value="$PROJECT_DIR$/config.properties" />
         <option value="$PROJECT_DIR$/examples/promo/list-component.html" />
         <option value="$PROJECT_DIR$/examples/promo/style.css" />
+        <option value="$PROJECT_DIR$/LICENSE.txt" />
       </list>
     </option>
   </component>
@@ -466,11 +476,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/jetty-6.1.24.jar!/org/mortbay/jetty/servlet/Context.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="257" selection-end="257" vertical-scroll-proportion="0.14563107" />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/commons-io-1.4.jar!/org/apache/commons/io/CopyUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.2038835" />
@@ -545,7 +550,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gu/microserver/MicroServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.17269737">
+        <state line="9" column="39" selection-start="283" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="50" selection-end="50" vertical-scroll-proportion="0.049342107">
           <folding />
         </state>
       </provider>
